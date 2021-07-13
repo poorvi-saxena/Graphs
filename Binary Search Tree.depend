@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623684344 source:c:\users\poorv\onedrive\desktop\school\c++ lab\binary search tree\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
